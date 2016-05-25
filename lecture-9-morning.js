@@ -17,7 +17,15 @@
 // < input name = "say" value = "Hi" >
 // < /form>
 
-npm i
-npm i body - parser--save
-  // without this we haven't installed body parser so it will not work
-  // when we try to use it in out document
+// npm i
+// npm i body-parser --save
+// without this we haven't installed body parser so it will not work
+// when we try to use it in out document
+
+//npm i node-inspector --save-dev
+//
+
+//npm i nodemon --save-dev
+
+// added to scripts
+"debug" = ""
