@@ -15,3 +15,7 @@ app.post('/add-name', routes.addName)
 app.listen(PORT, function () {
   console.log('The server is listening on:', PORT)
 })
+
+
+// havent installed anything nothing will work
+// lol
